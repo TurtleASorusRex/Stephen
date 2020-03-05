@@ -1,0 +1,10 @@
+E:\2020 Second Term\Object-Orianted\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+E:\2020 Second Term\Object-Orianted\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+E:\2020 Second Term\Object-Orianted\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+E:\2020 Second Term\Object-Orianted\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+E:\2020 Second Term\Object-Orianted\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+E:\2020 Second Term\Object-Orianted\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+E:\2020 Second Term\Object-Orianted\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.cache
+E:\2020 Second Term\Object-Orianted\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+E:\2020 Second Term\Object-Orianted\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+E:\2020 Second Term\Object-Orianted\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
